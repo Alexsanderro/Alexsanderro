@@ -73,3 +73,5 @@ Me chamo Alexsander Rodrigues, tenho 22 anos e sou estudante de Sistemas de Info
 <br/>
 
 ### 📊 Estatísticas
+
+![Metrics](https://raw.githubusercontent.com/gist/Ev357/17d9fc0cbccd58aea20b392de2d88eba/raw/aa5379c97b7f1bf89105f0960fafdb389cdbd70e/github-metrics.svg)
