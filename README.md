@@ -68,6 +68,22 @@ Me chamo Alexsander Rodrigues, tenho 22 anos e sou estudante de Sistemas de Info
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
+<img 
+    align="left" 
+    alt="Intelij"
+    title="Intelij" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Intelij"
+    title="Intelij" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
 
 <br/>
 <br/>
